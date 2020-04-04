@@ -7,6 +7,6 @@ class Golondrina
     self.energia -= 10+km
   end
   def comer(gramos)
-    self.energia += gramos*5
+    self.energia += gramos*6
   end
 end
